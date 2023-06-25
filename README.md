@@ -1,3 +1,6 @@
+<header>
+  <img src="https://github.com/melvinvargas1608/JavaScript/blob/main/header1_github.jpg" alt="imagen de cabecera">
+</header>
 <h1>JavaScript</h1> 
 
 <h2>Repositorio en el cual iré guardando mis avances de aprendizaje del lenguaje JavaScript. </h2>
