@@ -18,7 +18,7 @@ console.log(saludo + ', ' + nombre); //Hola!, Melvin Vargas
 //verificamos el tipo de dato que estamos utilizando apoyandonos del método typeof
 console.log(typeof (nombre)); //string
 
-console.log('***** Fin String *****');
+console.log('***** Fin tipo String *****');
 
 //Números: Nos permiten manipular valoires numéricos.
 var numeroEntero = 16;
@@ -29,7 +29,7 @@ console.log(typeof (numeroEntero)); //number
 console.log(typeof (numeroNegativo)); //number
 console.log(typeof (numeroDecimal)); //number
 
-console.log('***** Fin Números *****');
+console.log('***** Fin tipo Números *****');
 
 //Booleanos: Representa un valor lógico y solamente puede tener dos valores, ya sea true o false.
 var estoyFeliz = true;
@@ -38,18 +38,18 @@ var estoyAburrido = false;
 console.log(typeof(estoyFeliz)); //boolean
 console.log(typeof (estoyAburrido)); //boolean
 
-console.log('***** Fin Booleanos *****');
+console.log('***** Fin tipo Booleanos *****');
 
 //Undefined: Representa una variable que no se ha declarado o a la cual no se le ha asignado un valor.
 var numero1;
 
 console.log(typeof (numero1)); //undefined
 
-console.log('***** Fin Undefined *****');
+console.log('***** Fin tipo Undefined *****');
 
 //Null: Representa la ausencia intencional de cualquier valor, un valor nulo o <<vacío>>.
 var vacia = null;
 
 console.log(typeof (vacia)); //null
 
-console.log('***** Fin Null*****');
+console.log('***** Fin tipo Null*****');
