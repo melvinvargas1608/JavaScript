@@ -1,6 +1,3 @@
-<header>
-  <img src="/img/header1_github.jpg">
-</header>
 <h1>JavaScript</h1> 
 
 <h2>Repositorio en el cual iré guardando mis avances de aprendizaje del lenguaje JavaScript. </h2>
