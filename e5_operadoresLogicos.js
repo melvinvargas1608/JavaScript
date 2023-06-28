@@ -38,3 +38,21 @@ var n2 = !false;
 console.log(n2); //true
 
 console.log('***** Fin operador ! *****');
+
+console.log('***** Aplicando ejemplos No.1 *****');
+
+var edad = 30;
+var tieneLicencia = false;
+var puedeConducir = edad > 18 && tieneLicencia;
+
+console.log(puedeConducir); //false
+console.log(!puedeConducir); //true
+
+console.log('***** Aplicando ejemplos No.2 *****');
+
+edad = 16;
+tieneLicencia = false;
+puedeConducir = edad > 18 || tieneLicencia;
+
+console.log(puedeConducir); //false
+console.log(!puedeConducir); //true
