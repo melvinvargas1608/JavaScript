@@ -15,6 +15,9 @@ console.log('división: ', 125 / 5); //división: 25
 //resto(%) - devuelve el resto de la división
 console.log('resto: ', 49 % 5); //resto: 4
 
+//potencia(**) - potenciación de un número
+console.log('potencia: ', 3 ** 2); //9
+
 //presedencia de operadores - orden en el cual los operadores son evaluados
 //en el siguiente ejemplo se evalua primeramente la multiplicación luego la suma y por último la resta
 console.log('resultado: ', 12 + 7 * 5 - 10); //resultado: 37
