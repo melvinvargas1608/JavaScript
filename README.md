@@ -20,3 +20,9 @@ Con <strong>JavaScript</strong>, los programadores pueden construir aplicaciones
 <li><strong>Comunidad y ecosistema robustos:</strong> JavaScript cuenta con una gran comunidad de desarrolladores y una amplia variedad de bibliotecas, frameworks y herramientas disponibles. Esto facilita el desarrollo rápido y eficiente de aplicaciones, ya que los desarrolladores pueden aprovechar soluciones existentes y compartir conocimientos y recursos.</li>
 <li><strong>Integración con otras tecnologías:</strong> JavaScript se puede integrar fácilmente con otras tecnologías web como HTML y CSS, lo que permite crear aplicaciones web completas. Además, también se puede utilizar en conjunto con APIs y servicios web, lo que brinda la capacidad de interactuar con sistemas externos y acceder a datos y funcionalidades adicionales.</li></ul>
 </p>
+
+```javascript
+var sumar2 = function(numero) {
+  return numero + 2;
+}
+```
