@@ -66,7 +66,7 @@ console.log(typeof(stringToArreglo)); //object
 console.log('***** Fin método split() *****');
 
 //Método join() - convierte un arreglo en un string, uniendo todos los elementos de este en una misma cadaena.
-var arregloToString = stringToArreglo.join();
+var arregloToString = stringToArreglo.join('');
 console.log(arregloToString);
 console.log(typeof (arregloToString)); //string
 
