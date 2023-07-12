@@ -1,5 +1,5 @@
 <header>
-  <img src="https://github.com/melvinvargas1608/JavaScript/blob/main/header1_github.jpg" alt="imagen de cabecera">
+  <img src="https://github.com/melvinvargas1608/JavaScript/blob/main/teoria-practica/header1_github.jpg" alt="imagen de cabecera">
 </header>
 
 <h1 align="center">Aprendiendo JavaScript:blush:</h1> 
