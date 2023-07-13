@@ -1,4 +1,4 @@
 //Programa que imprime en pantalla 'Hola Mundo en Javascript'.
 var saludo = 'Hola Mundo en Javascript'
 
-console.log(saludo);
+console.log(saludo); //Hola Mundo en Javascript
