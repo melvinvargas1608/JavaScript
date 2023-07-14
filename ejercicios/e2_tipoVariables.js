@@ -11,4 +11,4 @@ console.log(myNumero); //100
 // Crea una variable booleana:
 var myBoolean = true;
 
-console.log(myBoolean); //true
+console.log(myBoolean); //true 
