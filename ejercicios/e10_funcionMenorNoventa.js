@@ -12,7 +12,7 @@ console.log(menorNoventa(100)); // false
 console.log(menorNoventa(35)); // true
 
 
-//Utilizando función flecha
+// Utilizando operador ternario
 /*
 function menorAnoventa(num) {
     let menor = (num < 90) ? true : false;
