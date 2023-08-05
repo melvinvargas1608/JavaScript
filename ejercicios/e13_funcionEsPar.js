@@ -11,7 +11,7 @@ function numPar(numero) {
 console.log(numPar(15)); // false
 console.log(numPar(50)); // true
 
-console.log(" ***** FIN FUNCION mayorCincuenta ***** ");
+console.log(" ***** FIN FUNCION numPar ***** ");
 
 
 // Utilizando operador ternario
